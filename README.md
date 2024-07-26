@@ -5,7 +5,7 @@ g
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisswamy" alt="thisisswamy" /></a> </p>
 
-- 💬 Ask me about **Angular,Java, Spring and Springbootot**
+- 💬 Ask me about **Angular, React, Java, Spring and Springboot, Security**
 
 - 📫 How to reach me **thudumswamy786@gmail.com**
 
